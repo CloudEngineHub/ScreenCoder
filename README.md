@@ -11,8 +11,8 @@ Michael R. Lyu<sup>2</sup>, Xiangyu Yue<sup>1✉</sup>
 
 <a href="https://jimmyzhengyz.github.io/ScreenCoder-Project-Page/">
     <img
-      src="https://img.shields.io/badge/EMNLP_2026-Accepted-4f46e5"
-      alt="Accepted at EMNLP 2026"
+      src="https://img.shields.io/badge/EMNLP_2026_Main-Accepted-4f46e5"
+      alt="Accepted at EMNLP 2026 Main Conference"
     />
   </a>
   <a href="https://huggingface.co/spaces/Jimmyzheng-10/ScreenCoder">
@@ -34,7 +34,7 @@ Michael R. Lyu<sup>2</sup>, Xiangyu Yue<sup>1✉</sup>
 It also supports customized modifications, allowing developers and designers to tweak layout and styling with ease. Whether you're prototyping quickly or building pixel-perfect interfaces, ScreenCoder bridges the gap between design and development — just copy, customize, and deploy.
 
 ## News
-- 🎉 **ScreenCoder has been accepted to EMNLP 2026!** Visit the [project page](https://jimmyzhengyz.github.io/ScreenCoder-Project-Page/) or read the [paper](https://arxiv.org/abs/2507.22827).
+- 🎉 **ScreenCoder has been accepted to the EMNLP 2026 Main Conference!** Visit the [project page](https://jimmyzhengyz.github.io/ScreenCoder-Project-Page/) or read the [paper](https://arxiv.org/abs/2507.22827).
 - We have released the post-training code (SFT + RL) used to align ScreenCoder.
 - We also release ScreenBench (https://huggingface.co/datasets/Leigest/ScreenCoder), a novel benchmark for visual-to-code/web UI generation, including 1000 up-to-date real-world sampled web screenshots and corresponding HTML source code with diverse topics.
 
@@ -158,4 +158,3 @@ The typical workflow is a multi-step process as follows:
 ## Acknowledgements
 
 This project builds upon several outstanding open-source efforts. We would like to thank the authors and contributors of the following projects: [UIED](https://github.com/MulongXie/UIED), [DCGen](https://github.com/WebPAI/DCGen), [Design2Code](https://github.com/NoviScl/Design2Code)
-
